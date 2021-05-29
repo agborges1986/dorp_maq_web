@@ -1,0 +1,30 @@
+/* *{
+    outline: 1px red solid;
+} */
+.navbar-brand{
+    width:100px;
+    height:100px;
+}
+.icon-large{
+    width:18rem;
+    height: 18rem;
+}
+.icon-md{
+    width:15rem;
+    height:15rem;
+}
+.icon-sm{
+    width:8rem;
+    height:8rem;
+}
+.icon-xsm{
+    width:3rem;
+    height:3rem;
+}
+
+.box-social{
+    height: 15em;
+}
+.bg-semilla{
+    height: 500px;
+}
